@@ -1,6 +1,6 @@
 // Name: Andrew Degan
 // Project Title: Rocket Patrol Relaunched
-// Completion Time: N/A
+// Completion Time: ~5 hours
 // Mods:
 //  Create a new enemy Spaceship type that's smaller, moves faster, and is worth more points (5)
 //      -This new enemy ship is only available in Expert Mode
